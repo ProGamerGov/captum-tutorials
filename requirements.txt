@@ -1,0 +1,3 @@
+git+https://github.com/progamergov/captum@optim-only
+pillow
+torch>=1.6.0
