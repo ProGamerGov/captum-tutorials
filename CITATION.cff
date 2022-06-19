@@ -7,7 +7,7 @@ date-released: "2022-06-19"
 identifiers:
   - description: "This is the collection of archived snapshots of all versions of the additional Captum tutorials"
     type: doi
-    value: 10.5281/zenodo.0000000
+    value: 10.5281/zenodo.6667383
 keywords:
   - "Captum Tutorials"
   - research
